@@ -2,6 +2,9 @@
 
 This application is about generating a random color either by the color's name or as hexadecimal.
 
+# Screenshot
+<img src="image/Screenshot from 2022-11-10 14-09-22.png">
+
 # How to run the app
 ``git clone``: git@github.com:moise-mulungu/random-color.git
 
